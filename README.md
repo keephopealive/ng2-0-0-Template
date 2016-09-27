@@ -1,4 +1,6 @@
 # ng2-0-0-Template
+# Angular Version: 2.0.0
+# Template by Speros Misirlakis
 #
 # The purpose of this Repo is to give you the light weight version of an Angular 2 Application (without having to create each file and folder from the quick start)
 # The light version of Angular 2 is great to learn with because it does not come with all the added tools the CLI offers, and its thus easier to understand how it works internally.
